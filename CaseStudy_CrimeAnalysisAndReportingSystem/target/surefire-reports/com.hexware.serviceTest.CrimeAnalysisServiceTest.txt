@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hexware.serviceTest.CrimeAnalysisServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.589 s <<< FAILURE! - in com.hexware.serviceTest.CrimeAnalysisServiceTest
+testUpdateIncidentStatus(com.hexware.serviceTest.CrimeAnalysisServiceTest)  Time elapsed: 0.507 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.hexware.serviceTest.CrimeAnalysisServiceTest.testUpdateIncidentStatus(CrimeAnalysisServiceTest.java:40)
+
